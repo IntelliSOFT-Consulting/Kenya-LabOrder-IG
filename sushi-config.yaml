@@ -7,7 +7,7 @@ id: fhir.kenyalaborders.ig
 canonical: http://example.org
 name: Kenya-LabOrder-IG
 title: Kenya Lab Order Implementation Guide
-description: Kenya Lab Order Implementation Guide  describing lab order resources for Kenya 
+description: Kenya Lab Order Implementation Guide  describing lab order resources for Kenya
 status: draft # draft | active | retired | unknown
 version: 0.1.0
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
