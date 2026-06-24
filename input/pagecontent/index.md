@@ -1,6 +1,5 @@
 ## Kenya Laboratory Orders Implementation Guide
 
-Feel free to modify this index page with your own awesome content!
 This Implementation Guide (IG) consolidates guidance for exchanging laboratory orders and results in Kenya's digital health ecosystem. It complements the **Kenya Core FHIR IG** and leverages related national guides such as the **Kenya Client Registry (KeNHA) prescription workflows**, **Kenya Patient Summary**, and **KeNHA Claims (CeClaims)** packages to deliver a cohesive view of how laboratories collaborate with clinical and administrative systems.
 
 ### Purpose and scope
