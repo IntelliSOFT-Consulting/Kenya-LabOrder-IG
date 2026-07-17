@@ -6,6 +6,7 @@ Description: "Kenya lab report profile. Groups observations, carries overall int
 
 * status 1..1 MS
 * insert CodeableConceptRule(code, 1..1, MS)
+* code from KenyaLabDiagnosticReportCodeVS (extensible)
 * insert ReferenceRule(subject, Patient, 1..1)
 * effective[x] 1..1 MS
 * effectiveDateTime 0..1 MS

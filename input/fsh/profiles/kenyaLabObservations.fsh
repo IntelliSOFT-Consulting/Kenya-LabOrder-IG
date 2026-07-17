@@ -7,6 +7,7 @@ Description: "Kenya lab result profile. Represents an atomic lab result used in 
 * obeys kenya-labobs-value-or-absent
 * status 1..1 MS
 * insert CodeableConceptRule(code, 1..1, MS)
+* code from KenyaLabResultObservationCodeVS (extensible)
 * insert ReferenceRule(subject, Patient, 1..1)
 * effective[x] 1..1 MS
 * effectiveDateTime 0..1 MS

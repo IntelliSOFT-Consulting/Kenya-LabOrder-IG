@@ -5,6 +5,7 @@ Title: "Kenya Lab Order ServiceRequest"
 Description: "Kenya lab order profile. Supports single tests, panels and recurring orders."
 
 * obeys kenya-laborder-reason
+* code from KenyaLabOrderCodeVS (extensible)
 * insert IdentifierRequiredRule(requisition, 0..1)
 * performer 1..* MS
 * performer only Reference(Organization)
